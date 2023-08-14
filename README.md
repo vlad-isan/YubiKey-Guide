@@ -1078,6 +1078,11 @@ As an additional backup measure, consider using a [paper copy](https://www.jabbe
 
 It is strongly recommended to keep even encrypted OpenPGP private key material offline to deter [key overwriting attacks](https://www.kopenpgp.com/), for example.
 
+**Cross Platform**
+
+Just use veracrypt with 2 volumes.
+1 outer volume and 1 hidden volume, both with different passwords.
+
 **Linux**
 
 Attach another external storage device and check its label:
